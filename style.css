@@ -254,6 +254,11 @@
     justify-content: space-between;
     margin-bottom: 30px;
 }
+.right-upper-footer i{
+      font-size: 12px;
+      margin-right: 10px;
+      
+}
 .footer-section hr{
     width: 70%;
     margin-left:180px ;
